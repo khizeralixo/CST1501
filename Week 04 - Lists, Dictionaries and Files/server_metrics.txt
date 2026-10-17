@@ -1,0 +1,5 @@
+Auth_Attempts,120,100
+Port_Scan_Hits,92,100
+Failed_Logins,35,50
+Bandwidth_Mbps,980,1000
+Disk_Fill_Pct,102,100

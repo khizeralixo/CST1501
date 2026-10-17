@@ -1,0 +1,5 @@
+Auth_Attempts,OVER LIMIT
+Port_Scan_Hits,WARNING
+Failed_Logins,OK
+Bandwidth_Mbps,WARNING
+Disk_Fill_Pct,OVER LIMIT
